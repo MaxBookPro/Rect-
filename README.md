@@ -10,10 +10,10 @@ Copyright (c) 2015 Kaihan Zhu and Max Manning. All rights reserved.
 
 * Name: Rect();
 * Team Members: Max Manning, Peter Zhu;
-* Goal: To "revolutionize" the platforming genre.
+* Goal: To "revolutionize" the platforming genre;
 * How Well: Excellent;
 * Technology: Melonjs;
-* Difficulties: Collisions, aiming up
-* Continuation: Planning to develop on an ios app
+* Difficulties: Collisions, aiming up;
+* Continuation: iOS version finished. In iOS branch of this repository. 
 
 [gameWebsiteLink]: http://game.zhukaihan.com
